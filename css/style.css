@@ -24,7 +24,7 @@ body{
     background-position-x: 6px;
 }
 .nav-link {
-    color: #afadad !important;
+       color: #656565 !important;
     text-transform: uppercase;
 }
 .nav-link:hover{
@@ -71,7 +71,7 @@ body{
 }
 .parallax2 { 
     /* The image used */
-    background-image: url("../img/development.jpeg");
+    background-image: url("../img/development.jpg");
 
     /* Set a specific height */
     //height: 550px; 
@@ -104,7 +104,7 @@ body{
 .header{
     font-size: 30px;
     font-weight: bold;
-    color: #8e8e8e;
+    color: #4a4a4a;
     margin-bottom: 5px;
 
 }
@@ -121,7 +121,7 @@ body{
     background-color: #6f6f6f;
 }
 .text_content{
-    color: #aba5a5;
+    color: #5a5a5a;
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 18px;
@@ -138,8 +138,8 @@ body{
     border-color: #f1f1f1;
 }
 .card h5{
-    color: #212529;
-    font-weight: normal;
+        color: #4c4c4c;
+    font-weight: bold;
     margin-top: 25px;
     font-size: 20px;
     text-transform: uppercase;
@@ -149,9 +149,9 @@ body{
     cursor: pointer;
 }
 .card p{
-  font-size: 15px;
+      font-size: 16px;
     margin-top: 17px;
-    color: #a29f9f;
+    color: #616161;
     min-height: 187px;
 }
 .check-box{
