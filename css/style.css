@@ -69,7 +69,7 @@ body{
     background-size: cover;
    // border-bottom: solid 2px #fa7400;
 }
-.parallax2 { 
+.parallax2 {    
     /* The image used */
     background-image: url("../img/development.jpg");
 
@@ -160,4 +160,7 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+
+
 
